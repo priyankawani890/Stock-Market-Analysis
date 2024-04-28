@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById('stockName').textContent = `Stock Name: ${symbol}`;
     document.getElementById('stockProfit').textContent = `Profit: ${summary.profit}`;
     document.getElementById('stockBookValue').textContent = `Book Value: ${summary.bookValue}`;
-    document.getElementById('stockSummry').textContent = `Stock Summry: ${summary}`;
+    document.getElementById('stockSummary').textContent = `Stock Summary: ${summary}`;
 }
 
   // Function to draw chart with pointer

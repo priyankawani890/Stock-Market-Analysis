@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: hsl(180, 97%, 71%);
+    background-color: hsla(123, 60%, 51%, 0.278);
 }
 
 .container {
